@@ -9,9 +9,11 @@
        可以删除租户，将租户信息彻底删除。
        
 2.功能模块图
+
   ![image](https://github.com/Curtis-Mou/Tenant-management-system/assets/103250873/63871b3f-c1cf-45ed-895e-a65e4fe73125)
 
 3.系统介绍
+
       租户管理系统主要分为三个模块：
      
      （1） 登录模块
