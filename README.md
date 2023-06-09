@@ -26,7 +26,15 @@ Javaswing + mysql 实现租户管理系统——《软件项目开发实训1》�
      （3）个人管理模块
        修改密码，输入原密码，新密码，再次确认新密码。退出登录，返回登录界面。
        
- 4.类图
+ 4.功能实现图
+ 
+ 初始账户：123    密码：456789
+ ![image](https://github.com/Curtis-Mou/Tenant-management-system/assets/103250873/84419c42-3cec-4f3f-99c7-7744c1c01217)
+![image](https://github.com/Curtis-Mou/Tenant-management-system/assets/103250873/8cbfbfc8-3d37-41df-a881-c49f0a8f0c24)
+![image](https://github.com/Curtis-Mou/Tenant-management-system/assets/103250873/9061f9a6-4b53-449c-9bf9-17b7b609ac56)
+
+       
+ 5.类图
  ![src](https://github.com/Curtis-Mou/Tenant-management-system/assets/103250873/7faecc2e-f8d5-4963-8fd9-628a998cbe55)
 
 
