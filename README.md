@@ -29,8 +29,11 @@ Javaswing + mysql 实现租户管理系统——《软件项目开发实训1》�
  4.功能实现图
  
  初始账户：123    密码：456789
+ 
  ![image](https://github.com/Curtis-Mou/Tenant-management-system/assets/103250873/84419c42-3cec-4f3f-99c7-7744c1c01217)
+ 
 ![image](https://github.com/Curtis-Mou/Tenant-management-system/assets/103250873/8cbfbfc8-3d37-41df-a881-c49f0a8f0c24)
+
 ![image](https://github.com/Curtis-Mou/Tenant-management-system/assets/103250873/9061f9a6-4b53-449c-9bf9-17b7b609ac56)
 
        
