@@ -36,6 +36,14 @@ Javaswing + mysql 实现租户管理系统——《软件项目开发实训1》�
 
 ![image](https://github.com/Curtis-Mou/Tenant-management-system/assets/103250873/9061f9a6-4b53-449c-9bf9-17b7b609ac56)
 
+![image](https://github.com/Curtis-Mou/Tenant-management-system/assets/103250873/1eb8b325-dcc8-4422-8e09-5926469acdea)
+
+![image](https://github.com/Curtis-Mou/Tenant-management-system/assets/103250873/5bbb20b3-9bb2-4938-9f9d-30355e53b3d6)
+
+![image](https://github.com/Curtis-Mou/Tenant-management-system/assets/103250873/acaec4e2-cec4-4f90-b1fd-6e7f3f2fc35c)
+
+更多功能请下载查看
+
        
  5.类图
  ![src](https://github.com/Curtis-Mou/Tenant-management-system/assets/103250873/7faecc2e-f8d5-4963-8fd9-628a998cbe55)
