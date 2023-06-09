@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="lessee (2):jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/lessee__2__jar2</output-path>
+    <root id="root">
+      <element id="archive" name="lessee (2).jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/../../../../../META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="lessee (2)" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/lessee/lib/mysql-connector-j-8.0.33.jar" />
+      <element id="library" level="module" name="JUnit4" module-name="lessee (2)" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true">
+    <file url="file://$PROJECT_DIR$/src/dao/JdbcHelper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/dao/ManageHelper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/AddStudentFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/AddlesseeFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/ConditionsQueryFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/DeleteStudentFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/DeletelesseeFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/DetailsFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/ModifyFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/ModifyStudentFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/ModifylesseeFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/QueryStudentFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/QuerylesseeFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/StudentSystemLoginFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/StudentSystemMainFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/StudentSystemRegisterFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/UpdatePasswordFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/lesseeSystemLoginFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/lesseeSystemMainFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/lesseeSystemRegisterFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/model/lesseemodel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/util/CreateSql.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/util/Tools.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/util/WindowUtil.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
