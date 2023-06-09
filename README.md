@@ -24,4 +24,8 @@
      
      （3）个人管理模块
        修改密码，输入原密码，新密码，再次确认新密码。退出登录，返回登录界面。
+       
+ 4.类图
+ ![src](https://github.com/Curtis-Mou/Tenant-management-system/assets/103250873/7faecc2e-f8d5-4963-8fd9-628a998cbe55)
+
 
