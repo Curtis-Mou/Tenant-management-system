@@ -1,5 +1,6 @@
 # Tenant-management-system
-租户管理系统 Javaswing + mysql
+Javaswing + mysql 实现租户管理系统
+
 《软件项目开发实训1》课程作业
 
 1.项目介绍
